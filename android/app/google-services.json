@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579254476285",
+    "project_id": "magassa-market",
+    "storage_bucket": "magassa-market.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579254476285:android:c285f8424ee1102551cd94",
+        "android_client_info": {
+          "package_name": "com.example.magassa_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yrclfCRI3XWM_lJhPc4uVaIF14U9-e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
